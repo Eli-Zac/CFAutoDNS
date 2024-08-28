@@ -1,17 +1,21 @@
 # CFAutoDNS | Cloudflare Autmatic DNS Record Updater
 <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Eli-Zac/CFAutoDNS/main"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Eli-Zac/CFAutoDNS"> <img alt="GitHub" src="https://img.shields.io/github/license/Eli-Zac/CFAutoDNS?color=white">
 
-###### Recomended For Use With A Dynamic IP Address.
-This tool will scan for ip (external ip) changes on your windows device and automatically update your set record on Cloudflare DNS. You dont have to worry about getting the record id, this app gets it automatically.
+> #### Recomended For Use With A Dynamic IP Address.
+> This tool will scan for ip (external ip) changes on your windows device and automatically update your set record on Cloudflare DNS. You dont have to worry about getting the record id, this app gets it automatically.
 
 ## Donate
 [![Donate Via Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Jasonkkf)
 
 
 ## Installation
-This program is compatible with Windows
+> This program is compatible with Windows.
 
-To download CFAutoDNS visit the releases page or click the link below
+To download the latest version of CFAutoDNS visit the releases page or click the link below.
+
+https://github.com/Eli-Zac/CFAutoDNS/releases/latest
+___
+To download an older version of CFAutoDNS visit the link below.
 
 https://github.com/Eli-Zac/CFAutoDNS/releases
 
