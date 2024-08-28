@@ -21,24 +21,22 @@ https://github.com/Eli-Zac/CFAutoDNS/releases
 
 
 ## Usage
-This script is used with crontab. Specify the frequency of execution through crontab.
+> After downloading the exe file from the releases tab, open the file and the program should run automatically. 
 
-```bash
-# ┌───────────── minute (0 - 59)
-# │ ┌───────────── hour (0 - 23)
-# │ │ ┌───────────── day of the month (1 - 31)
-# │ │ │ ┌───────────── month (1 - 12)
-# │ │ │ │ ┌───────────── day of the week (0 - 6) (Sunday to Saturday 7 is also Sunday on some systems)
-# │ │ │ │ │ ┌───────────── command to issue                               
-# │ │ │ │ │ │
-# │ │ │ │ │ │
-# * * * * * /bin/bash {Location of the script}
-```
+### To automatically run on computer start without logging in:
+1. Press ```⊞ Win``` + ```R``` to open run.
+2. Type in ```taskschd.msc``` and press enter.
+3. Click on ```Task Scheduler Library``` in the left menu.
+4. Under actions, click on ```Create Basic Task...```.
+5. In the name box type ```CFAutoDNS``` then click next.
+6. For trigger, select ```When the computer starts``` then click next.
+7. For action, select ```Start a program``` then click next.
+8. Click on browse and choose the CFAutoDNS exe file.
+9. Save.
+
 
 ## Tested Environments:
-macOS Mojave version 10.14.6 (x86_64) <br />
-AlmaLinux 9.3 (Linux kernel: 5.14.0 | x86_64) <br />
-Debian Bullseye 11 (Linux kernel: 6.1.28 | aarch64) <br />
+Windows 11 (23H2 22631.4037)<br />
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
