@@ -41,8 +41,5 @@ Windows 11 (23H2 22631.4037)<br />
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## Reference
-This script was made with reference from [Keld Norman](https://www.youtube.com/watch?v=vSIBkH7sxos) video.
-
 ## License
-[MIT](https://github.com/K0p1-Git/cloudflare-ddns-updater/blob/main/LICENSE)
+[MIT](https://github.com/Eli-Zac/CFAutoDNS/blob/main/LICENSE)
