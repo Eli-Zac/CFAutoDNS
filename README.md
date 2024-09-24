@@ -37,6 +37,7 @@ https://github.com/Eli-Zac/CFAutoDNS/releases
 
 ## Tested Environments:
 Windows 11 (23H2 22631.4037)<br />
+Windows 10 (22H2 19045.4894)<br />
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
